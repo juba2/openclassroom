@@ -1,0 +1,7 @@
+{
+  "name": "activiteOC",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
